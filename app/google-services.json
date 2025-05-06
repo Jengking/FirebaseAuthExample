@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313003937301",
+    "project_id": "testauth-c3dee",
+    "storage_bucket": "testauth-c3dee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313003937301:android:bfa80eb78e5d5a968f881c",
+        "android_client_info": {
+          "package_name": "com.exp.firebaseauthexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QVRNMM7JPfnpxjDEL-KT5jWP01BRBx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
